@@ -12,5 +12,5 @@ step 6 : Go to webapp and paste all the html file here and run as server to regi
 
 
 
-
+d
        ...   NOW  YOU CAN ENJOY CREATING BANK ACCOUNT   ...
