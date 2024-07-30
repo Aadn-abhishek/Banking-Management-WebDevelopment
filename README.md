@@ -1,5 +1,6 @@
 # Banking Management system Web-Development
-In this project we have performed both fronted and backend . For frontend I have used html,css,js And for backend I have used java using servlet and sql.<br>
+In this project we have performed roadmap of banking management system. In this system deposit, withdraw , check balance can be done . 
+Skills used html,css,js and for backend I have used java using servlet and sql.<br>
 How to Execute this code:<br>
 Step 1 : Install eclipse.<br>
          https://www.youtube.com/watch?v=HFh8VpI_NRA&list=PLmtApxjHodxVlrt3mV4tHocOFRSD5nCqq<br>
