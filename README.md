@@ -1,6 +1,12 @@
 # Banking Management system Web-Development
-In this project we have performed roadmap of banking management system. In this system deposit, withdraw , check balance can be done . 
-Skills used html,css,js and for backend I have used java using servlet and sql.<br>
+Developed a comprehensive Banking Management System that facilitates essential banking operations, including deposit, withdrawal, and balance inquiries. This system ensures efficient and secure handling of user transactions and account management.
+
+
+##Technologies Used:
+
+"*"Frontend: HTML, CSS, JavaScript
+*Backend: Java (using Servlet)
+*Database: SQL
 How to Execute this code:<br>
 Step 1 : Install eclipse.<br>
          https://www.youtube.com/watch?v=HFh8VpI_NRA&list=PLmtApxjHodxVlrt3mV4tHocOFRSD5nCqq<br>
