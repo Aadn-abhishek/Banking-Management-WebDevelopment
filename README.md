@@ -4,9 +4,9 @@ Developed a comprehensive Banking Management System that facilitates essential b
 
 ##Technologies Used:
 
-"*"Frontend: HTML, CSS, JavaScript
-*Backend: Java (using Servlet)
-*Database: SQL
+- **Frontend: HTML, CSS, JavaScript
+- **Backend: Java (using Servlet)
+- **Database: SQL
 How to Execute this code:<br>
 Step 1 : Install eclipse.<br>
          https://www.youtube.com/watch?v=HFh8VpI_NRA&list=PLmtApxjHodxVlrt3mV4tHocOFRSD5nCqq<br>
